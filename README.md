@@ -1,3 +1,5 @@
-# nodeauth_proj
+# Run
 
-Info on how to run the app etc...
+```
+npm start
+```
