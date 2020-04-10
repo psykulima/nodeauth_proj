@@ -1,0 +1,3 @@
+# nodeauth_proj
+
+Info on how to run the app etc...
